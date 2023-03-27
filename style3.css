@@ -13,6 +13,7 @@ body {
 
 .box {
     background-color: rgb(104, 160, 89);
+    border: 3px solid rgb(34, 122, 47);
     color: #fff;
     border-radius: 5px;
     padding: 10px;
@@ -22,10 +23,12 @@ body {
 .header,
 .footer {
     background-color: rgb(109, 190, 189);
+    border: 3px solid rgb(36, 164, 164)
 }
 
 .sidebar2 {
     background-color: rgb(236, 185, 194);
+    border: 3px solid rgb(240, 147, 197);
     color: #444;
 }
 
